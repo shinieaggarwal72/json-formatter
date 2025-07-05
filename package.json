@@ -1,0 +1,15 @@
+{
+  "name": "json-formatter",
+  "version": "1.0.0",
+  "description": "takes unformatted json string and pretty prints it to a file",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "shinie",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^12.7.0"
+  }
+}
