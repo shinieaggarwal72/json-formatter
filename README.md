@@ -9,7 +9,7 @@ A simple Node.js tool to format unformatted JSON data. The formatted JSON is sav
    
 2. Navigate to directory
    ```bash
-   cd qr-code-generator
+   cd json-formatter
    
 3. Install dependencies
     ```bash
